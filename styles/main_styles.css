@@ -879,7 +879,7 @@ section {
   border-radius: 3px;
   border: #707070 solid 1px;
   background: #fff;
-}
+}  
 
 @media screen and (max-width: 768px) {
   .news-pagination .page-numbers {
