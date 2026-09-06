@@ -85,9 +85,11 @@
       </div>
     </div>
   </div>
+  <div class="col-lg-4" style="background-color: #2b7b8e33">
+          <?php get_sidebar( );?>
   </div>
 </div>
-<?php get_sidebar( );?>
+
 
         </div>
       </div>
